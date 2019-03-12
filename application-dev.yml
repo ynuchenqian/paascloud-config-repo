@@ -105,6 +105,7 @@ info:
   关于我们: http://paascloud.net
 
 paascloud:
+  enableSqlLogInterceptor: false
   auth:
     jwt:
       expiredRemainMinutes: 20
