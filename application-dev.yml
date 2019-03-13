@@ -19,7 +19,7 @@ spring:
     password: chenqian
   redis:
     host: localhost
-    password: foobared
+    password: chenqian
     port: 6379
     timeout: 10
   datasource:
