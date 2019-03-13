@@ -19,7 +19,7 @@ spring:
     password: chenqian
   redis:
     host: paascloud-db-redis
-    password: foobared
+    password: requirepass@foobared
     port: 6379
     timeout: 0
   datasource:
