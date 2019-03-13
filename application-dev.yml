@@ -18,7 +18,7 @@ spring:
     username: root
     password: chenqian
   redis:
-    host: paascloud-db-redis
+    host: localhost
     password: foobared
     port: 6379
     timeout: 0
